@@ -13,5 +13,5 @@ beter = json.load(f)
 Username = "admin"
 Password = "admin123"
 
-pik = members("penis", "hond", "kanker")
+pik = members("penis", "hond", "hallo")
 print(beter.keys())

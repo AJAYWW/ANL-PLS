@@ -1,0 +1,67 @@
+{
+    "henkjan": 
+      {
+        "first_name": "henk",
+        "last_name": "jan",
+        "password": "david",
+        "book_1": "null",
+        "book_2": "null",
+        "book_3": "null",
+        "total_books": 0
+      }
+    ,
+    "ajay": 
+      {
+        "first_name": "ajay",
+        "last_name": "wurie",
+        "password": "ajay",
+        "book_1": "null",
+        "book_2": "null",
+        "book_3": "null",
+        "total_books": 0
+      }
+    ,
+    "johan": 
+      {
+        "first_name": "dirk",
+        "last_name": "kuit",
+        "password": "dirk",
+        "book_1": "null",
+        "book_2": "null",
+        "book_3": "null",
+        "total_books": 0
+      }
+    ,
+    "jeffrey": 
+      {
+        "first_name": "jeffrey",
+        "last_name": "nieuwehuize",
+        "password": "jeffrey",
+        "book_1": "null",
+        "book_2": "null",
+        "book_3": "null",
+        "total_books": 0
+      }
+    ,
+    "daniel": 
+      {
+        "first_name": "daniel",
+        "last_name": "wijma",
+        "password": "daniel",
+        "book_1": "null",
+        "book_2": "null",
+        "book_3": "null",
+        "total_books": 0
+      }
+    ,
+    "ristvan": 
+      {
+        "first_name": "ristvan",
+        "last_name": "achternaam",
+        "password": "ristvan",
+        "book_1": "null",
+        "book_2": "null",
+        "book_3": "null",
+        "total_books": 0
+      }
+    }    
